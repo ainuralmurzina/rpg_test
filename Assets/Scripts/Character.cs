@@ -10,7 +10,7 @@ public abstract class Character : MonoBehaviour {
 
 	private Animator animator;
 
-	void Start(){
+	protected virtual void Start(){
 		animator = GetComponent<Animator> ();
 	}
 

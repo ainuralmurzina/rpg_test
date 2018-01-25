@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: e48aff6fa5b5b0e4d90816efa0d2569c
-timeCreated: 1516786508
+timeCreated: 1516869858
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
@@ -20,6 +20,7 @@ TextureImporter:
     21300026: arshes13_13
     21300028: arshes13_14
     21300030: arshes13_15
+    21300032: arshes13_16
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -335,6 +336,20 @@ TextureImporter:
         height: 42
       alignment: 7
       pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arshes13_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 196
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.403656, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
