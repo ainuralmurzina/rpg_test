@@ -934,7 +934,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe6704f9e76bcb34e8f0c86773b5e8ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2.5
+  speed: 1
   health: {fileID: 1442118986}
   mana: {fileID: 155331659}
 --- !u!212 &1512573312
@@ -971,12 +971,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: e48aff6fa5b5b0e4d90816efa0d2569c, type: 3}
+  m_Sprite: {fileID: 21300156, guid: 1dded9b8229f25345b83d32b2ad2d4d2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.3, y: 0.46}
+  m_Size: {x: 1.1666666, y: 1.7}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1

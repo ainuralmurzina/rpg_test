@@ -1,0 +1,2777 @@
+fileFormatVersion: 2
+guid: 1dded9b8229f25345b83d32b2ad2d4d2
+timeCreated: 1516969150
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: male_sprites_0
+    21300002: male_sprites_1
+    21300004: male_sprites_2
+    21300006: male_sprites_3
+    21300008: male_sprites_4
+    21300010: male_sprites_5
+    21300012: male_sprites_6
+    21300014: male_sprites_7
+    21300016: male_sprites_8
+    21300018: male_sprites_9
+    21300020: male_sprites_10
+    21300022: male_sprites_11
+    21300024: male_sprites_12
+    21300026: male_sprites_13
+    21300028: male_sprites_14
+    21300030: male_sprites_15
+    21300032: male_sprites_16
+    21300034: male_sprites_17
+    21300036: male_sprites_18
+    21300038: male_sprites_19
+    21300040: male_sprites_20
+    21300042: male_sprites_21
+    21300044: male_sprites_22
+    21300046: male_sprites_23
+    21300048: male_sprites_24
+    21300050: male_sprites_25
+    21300052: male_sprites_26
+    21300054: male_sprites_27
+    21300056: male_sprites_28
+    21300058: male_sprites_29
+    21300060: male_sprites_30
+    21300062: male_sprites_31
+    21300064: male_sprites_32
+    21300066: male_sprites_33
+    21300068: male_sprites_34
+    21300070: male_sprites_35
+    21300072: male_sprites_36
+    21300074: male_sprites_37
+    21300076: male_sprites_38
+    21300078: male_sprites_39
+    21300080: male_sprites_40
+    21300082: male_sprites_41
+    21300084: male_sprites_42
+    21300086: male_sprites_43
+    21300088: male_sprites_44
+    21300090: male_sprites_45
+    21300092: male_sprites_46
+    21300094: male_sprites_47
+    21300096: male_sprites_48
+    21300098: male_sprites_49
+    21300100: male_sprites_50
+    21300102: male_sprites_51
+    21300104: male_sprites_52
+    21300106: male_sprites_53
+    21300108: male_sprites_54
+    21300110: male_sprites_55
+    21300112: male_sprites_56
+    21300114: male_sprites_57
+    21300116: male_sprites_58
+    21300118: male_sprites_59
+    21300120: male_sprites_60
+    21300122: male_sprites_61
+    21300124: male_sprites_62
+    21300126: male_sprites_63
+    21300128: male_sprites_64
+    21300130: male_sprites_65
+    21300132: male_sprites_66
+    21300134: male_sprites_67
+    21300136: male_sprites_68
+    21300138: male_sprites_69
+    21300140: male_sprites_70
+    21300142: male_sprites_71
+    21300144: male_sprites_72
+    21300146: male_sprites_73
+    21300148: male_sprites_74
+    21300150: male_sprites_75
+    21300152: male_sprites_76
+    21300154: male_sprites_77
+    21300156: male_sprites_78
+    21300158: male_sprites_79
+    21300160: male_sprites_80
+    21300162: male_sprites_81
+    21300164: male_sprites_82
+    21300166: male_sprites_83
+    21300168: male_sprites_84
+    21300170: male_sprites_85
+    21300172: male_sprites_86
+    21300174: male_sprites_87
+    21300176: male_sprites_88
+    21300178: male_sprites_89
+    21300180: male_sprites_90
+    21300182: male_sprites_91
+    21300184: male_sprites_92
+    21300186: male_sprites_93
+    21300188: male_sprites_94
+    21300190: male_sprites_95
+    21300192: male_sprites_96
+    21300194: male_sprites_97
+    21300196: male_sprites_98
+    21300198: male_sprites_99
+    21300200: male_sprites_100
+    21300202: male_sprites_101
+    21300204: male_sprites_102
+    21300206: male_sprites_103
+    21300208: male_sprites_104
+    21300210: male_sprites_105
+    21300212: male_sprites_106
+    21300214: male_sprites_107
+    21300216: male_sprites_108
+    21300218: male_sprites_109
+    21300220: male_sprites_110
+    21300222: male_sprites_111
+    21300224: male_sprites_112
+    21300226: male_sprites_113
+    21300228: male_sprites_114
+    21300230: male_sprites_115
+    21300232: male_sprites_116
+    21300234: male_sprites_117
+    21300236: male_sprites_118
+    21300238: male_sprites_119
+    21300240: male_sprites_120
+    21300242: male_sprites_121
+    21300244: male_sprites_122
+    21300246: male_sprites_123
+    21300248: male_sprites_124
+    21300250: male_sprites_125
+    21300252: male_sprites_126
+    21300254: male_sprites_127
+    21300256: male_sprites_128
+    21300258: male_sprites_129
+    21300260: male_sprites_130
+    21300262: male_sprites_131
+    21300264: male_sprites_132
+    21300266: male_sprites_133
+    21300268: male_sprites_134
+    21300270: male_sprites_135
+    21300272: male_sprites_136
+    21300274: male_sprites_137
+    21300276: male_sprites_138
+    21300278: male_sprites_139
+    21300280: male_sprites_140
+    21300282: male_sprites_141
+    21300284: male_sprites_142
+    21300286: male_sprites_143
+    21300288: male_sprites_144
+    21300290: male_sprites_145
+    21300292: male_sprites_146
+    21300294: male_sprites_147
+    21300296: male_sprites_148
+    21300298: male_sprites_149
+    21300300: male_sprites_150
+    21300302: male_sprites_151
+    21300304: male_sprites_152
+    21300306: male_sprites_153
+    21300308: male_sprites_154
+    21300310: male_sprites_155
+    21300312: male_sprites_156
+    21300314: male_sprites_157
+    21300316: male_sprites_158
+    21300318: male_sprites_159
+    21300320: male_sprites_160
+    21300322: male_sprites_161
+    21300324: male_sprites_162
+    21300326: male_sprites_163
+    21300328: male_sprites_164
+    21300330: male_sprites_165
+    21300332: male_sprites_166
+    21300334: male_sprites_167
+    21300336: male_sprites_168
+    21300338: male_sprites_169
+    21300340: male_sprites_170
+    21300342: male_sprites_171
+    21300344: male_sprites_172
+    21300346: male_sprites_173
+    21300348: male_sprites_174
+    21300350: male_sprites_175
+    21300352: male_sprites_176
+    21300354: male_sprites_177
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: male_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1282
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1282
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1217
+        width: 22
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1217
+        width: 23
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1217
+        width: 22
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1217
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1217
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1217
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1217
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1152
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1152
+        width: 36
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1152
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1152
+        width: 48
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1152
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1089
+        width: 22
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1089
+        width: 23
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1089
+        width: 22
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1089
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1089
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1089
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1026
+        width: 54
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1024
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1024
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1024
+        width: 25
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1024
+        width: 24
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1024
+        width: 23
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1024
+        width: 24
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1024
+        width: 25
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 961
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 961
+        width: 54
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 961
+        width: 54
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 960
+        width: 54
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 960
+        width: 54
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 54
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_42
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 960
+        width: 54
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 960
+        width: 54
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 896
+        width: 54
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 897
+        width: 51
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 897
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 897
+        width: 27
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 897
+        width: 26
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 896
+        width: 25
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 897
+        width: 27
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 897
+        width: 27
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 833
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 833
+        width: 54
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 833
+        width: 54
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 832
+        width: 54
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_56
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 832
+        width: 54
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_57
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 832
+        width: 54
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_58
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 832
+        width: 54
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_59
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 832
+        width: 54
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 771
+        width: 37
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 771
+        width: 37
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 770
+        width: 37
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_63
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 769
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_64
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 770
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 771
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_66
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 770
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_67
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 769
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_68
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 770
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 705
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 706
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 707
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 707
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 706
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 33
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 706
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_76
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 706
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_77
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 706
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 640
+        width: 35
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 640
+        width: 35
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 640
+        width: 36
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 640
+        width: 35
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 640
+        width: 35
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_87
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 577
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_88
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 578
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_89
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 579
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 579
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_91
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 578
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_92
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 578
+        width: 33
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_93
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 578
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_94
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 578
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_95
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 578
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 513
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 513
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 513
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_102
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 449
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_103
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 448
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 448
+        width: 25
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_105
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 448
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_107
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 448
+        width: 43
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 384
+        width: 30
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 384
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 384
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 385
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 385
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 385
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 321
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 320
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 320
+        width: 25
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 320
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 320
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 320
+        width: 43
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_121
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 256
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 256
+        width: 22
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 256
+        width: 27
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 256
+        width: 25
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 256
+        width: 26
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 256
+        width: 27
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 256
+        width: 28
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 256
+        width: 27
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 256
+        width: 22
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 256
+        width: 22
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_132
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 256
+        width: 22
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 193
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_134
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 193
+        width: 37
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_135
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 193
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_136
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 192
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_137
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 43
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_139
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 192
+        width: 45
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_140
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 192
+        width: 45
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_141
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 192
+        width: 44
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 192
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 192
+        width: 34
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 192
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_145
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 192
+        width: 39
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 128
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 129
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_148
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 130
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 128
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 128
+        width: 23
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 128
+        width: 23
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 128
+        width: 23
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 128
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 128
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 128
+        width: 23
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 128
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_157
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 128
+        width: 22
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 128
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_159
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 65
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_160
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 65
+        width: 37
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 43
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_164
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 64
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 64
+        width: 45
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 64
+        width: 45
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 64
+        width: 44
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 64
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 64
+        width: 34
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_170
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 64
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 64
+        width: 39
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 30
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
