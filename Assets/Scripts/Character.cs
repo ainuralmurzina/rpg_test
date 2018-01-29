@@ -7,9 +7,10 @@ public abstract class Character : MonoBehaviour {
 	[SerializeField]
 	protected float speed;
 	protected Vector2 direction;
-
+	protected bool isAttacking;
+	protected Coroutine attackRoutine;
 	private Rigidbody2D rigidbody;
-	private Animator animator;
+	protected Animator animator;
 
 	protected bool IsMoving{
 		get { return direction.x != 0 || direction.y != 0; }
@@ -34,6 +35,11 @@ public abstract class Character : MonoBehaviour {
 			ActivateLayer("WalkLayer");
 			animator.SetFloat ("x", direction.x);
 			animator.SetFloat ("y", direction.y);
+
+			StopAttack ();
+		}
+		else if(isAttacking){
+			ActivateLayer ("AttackLayer");
 		}
 		else
 			ActivateLayer("IdleLayer");
@@ -43,6 +49,14 @@ public abstract class Character : MonoBehaviour {
 		for (int i = 0; i < animator.layerCount; i++)
 			animator.SetLayerWeight (i, 0f);
 		animator.SetLayerWeight (animator.GetLayerIndex(layerName), 1f);
+	}
+
+	protected void StopAttack(){
+		if(attackRoutine != null){
+			StopCoroutine (attackRoutine);
+			isAttacking = false;
+			animator.SetBool ("attack", isAttacking);
+		}
 	}
 
 }

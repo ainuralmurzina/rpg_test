@@ -22,5 +22,18 @@ public class Player : Character {
 		float x = Input.GetAxis ("Horizontal");
 		float y = Input.GetAxis ("Vertical");
 		direction = new Vector2 (x, y);
+
+		if (Input.GetKeyDown (KeyCode.Space)) {
+			if (!isAttacking && !IsMoving) {
+				attackRoutine = StartCoroutine (Attack ());
+			}
+		}
+	}
+
+	IEnumerator Attack(){
+		isAttacking = true;
+		animator.SetBool ("attack", isAttacking);
+		yield return new WaitForSeconds (1f);
+		StopAttack ();
 	}
 }
